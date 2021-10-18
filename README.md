@@ -37,9 +37,15 @@ For deliverable 1 four tables were created and loaded into postgres as below:
 For deliverable 2 we answered the following questions:
 
 * How many Vine reviews and non-Vine reviews were there?
+ The analysis results indicates that there was a 47 vine reviews while there was a 8362 non vine reviews.
+ 
 * How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
+The analysis results indicates thatthere 15 vine five stars reviews while there was a total of 4332 non-vine five stars reviews.
+
 * What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
+The analysis shows that the percentage of Vine reviews were 5 stars was 0.3191489361702128 while the percentage of the non Vine reviews was 0.5180578808897393
 
 **Summary:**
+The conclution of the analysis is that the number of the unpaid reviews is much higher than the Vine program. Which indicates that the reviews are not biased according to the vine program (paid reviews).
 
  
