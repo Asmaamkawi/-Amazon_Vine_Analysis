@@ -46,6 +46,7 @@ The analysis results indicates thatthere 15 vine five stars reviews while there 
 The analysis shows that the percentage of Vine reviews were 5 stars was 0.3191489361702128 while the percentage of the non Vine reviews was 0.5180578808897393
 
 **Summary:**
+
 The conclution of the analysis is that the number of the unpaid reviews is much higher than the Vine program. Which indicates that the reviews are not biased according to the vine program (paid reviews).
 
  
