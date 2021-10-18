@@ -11,14 +11,26 @@ For deliverable 1 four tables were created and loaded into postgres as below:
 
 * customers_table
 
+![alt text](https://github.com/Asmaamkawi/-Amazon_Vine_Analysis/blob/main/Images/customers_table.PNG)
+
+
 
 * products_table
+
+![alt text](https://github.com/Asmaamkawi/-Amazon_Vine_Analysis/blob/main/Images/products_table.PNG)
+
 
 
 * review_id_table
 
 
+![alt text](https://github.com/Asmaamkawi/-Amazon_Vine_Analysis/blob/main/Images/review_id_table.PNG)
+
+
+
 * vine_table
+
+![alt text](https://github.com/Asmaamkawi/-Amazon_Vine_Analysis/blob/main/Images/vine_table.PNG)
 
 
 
